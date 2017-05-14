@@ -4,7 +4,7 @@ A website for my game, Flint.
   body {
   padding-top: 80px;
   font-family: monaco, monospace;
-  background-color: 808000;
+  background-color: olive;
 }
 h1 {  
   display: inline-block;
@@ -18,10 +18,10 @@ a {
     color: C0C0C0;
 }
 p {
-    color: 890000;
+    color: maroon;
 }
 p2 {
-    color: 004900;
+    color: darkgreen;
 }
 </style>
 <html>
@@ -32,7 +32,7 @@ p2 {
 <center><h1>Flint is my first real game I have ever made.</h1><br>
 <h1>Here are downloads to each playable version</h1><br>
 <img src = "Flint.png" height="20%">
-<center><h2><a href="Flint.apk">Flint version 1.0</h2></a>
+<center><h2><a href="Flint.apk">Flint version 1.0</a>
 <p>This is the first version of flint and was made using app inventor.</p><br>
 <p2>Flint version 1.2 is not out, but will contain</p2>
 </center>

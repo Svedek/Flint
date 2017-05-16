@@ -42,14 +42,30 @@ p2 {
 </ul>
 <p2>Later versions may include</p2>
 <ul>
-  <li>More monters</li>
-  <li>An inventory screen</li>
-  <li>An item shop</li>
-  <li>The use of the currency, flint</li>
   <li>A map</li>
-  <li>Dialogue screens</li>
+  <li>More NPCs</li>
   <li>More quests</li>
-  <li>Expanded playable area</li>
+  <li>More monters</li>
+  <li>An item shop</li>
+  <li>Dialogue screens</li>
+  <li>An inventory screen</li>
   <li>A storyline/backstory</li>
+  <li>Expanded playable area</li>
+  <li>Character Customization</li>
+  <li>Character info + Skill points</li>
+  <li>The use of the currency, flint</li>
+  <li>Character skills/abilities and/or spells</li>
 </ul>
+  <l> ........................./|.......................</l><br>
+  <l>........................./ |........................</l><br>
+  <l>......................../ /|....................... </l><br>
+  <l>......................./ /%%V\......................</l><br>
+  <l>....................../ /%%%%%\.....................</l><br>
+  <l>...................../ /%%%%%%%|....................</l><br>
+  <l>....................| |%%%%%%%|....................</l><br>
+  <l>.....................\ /%%%%__/.....................</l><br>
+  <l>......................\_%%%\....................... </l><br>
+  <l> ........................\_./.......................</l><br>
+  <l></l><br>
+  <l></l><br>
 </left>

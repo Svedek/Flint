@@ -34,16 +34,22 @@ p2 {
 <img src = "Flint.png" height="20%">
 <center><h2><a href="Flint.apk">Flint version 1.0</a>
 <p>This is the first version of flint and was made using app inventor.</p><br>
-<p2>Flint version 1.2 is not out, but will contain</p2>
-</center>
+<p2>Flint version 1.1 is not out, but will contain</p2>
 <left>
 <ul>
   <li>Minor bug fixes</li>
-  <li>Expanded caves</li>
+  <li>A new start screen and background</li>
 </ul>
-<p2>And possibly</p2>
+<p2>Later versions may include</p2>
 <ul>
-  <li>A new monter</li>
-  <li></li>
+  <li>More monters</li>
+  <li>An inventory screen</li>
+  <li>An item shop</li>
+  <li>The use of the currency, flint</li>
+  <li>A map</li>
+  <li>Dialogue screens</li>
+  <li>More quests</li>
+  <li>Expanded playable area</li>
+  <li>A storyline/backstory</li>
 </ul>
 </left>
